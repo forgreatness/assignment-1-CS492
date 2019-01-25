@@ -1,3 +1,32 @@
 <resources>
     <string name="app_name">Basic Weather</string>
+    <string-array name="weather_overview">
+        <item>Mon Sept 1 - Sunny and Hot - 96F</item>
+        <item>Tues Sept 9 - Rainy and Warm - 78F</item>
+        <item>Wed Sept 17 - Rainy and Cool - 58F</item>
+        <item>Mon Jan 8 - Rainy and Cold - 42F</item>
+        <item>Mon Jan 16 - Dry and Freezing - 32F</item>
+        <item>Mon Jan 23 - Dry and Cold - 39F</item>
+        <item>Mon April 1 - Rainy and Cool - 56F</item>
+        <item>Thurs April 11 - Rainy and Cold - 45F</item>
+        <item>Wed April 17 - Rainy and Warm - 62F </item>
+        <item>Fri June 21 - Cloudy and Warm - 85F</item>
+        <item>Fri June 28 - Cloudy and Hot - 93F</item>
+        <item>Fri July 4 - Sunny and Hot - 100F</item>
+    </string-array>
+
+    <string-array name="weather_description">
+        <item>Sunny with little to no clouds, temperature in a high 90\'s and low 60\'s. Avoid being outside from 1:00 pm - 4:00 pm</item>
+        <item>Cloudy with possibility of thunderstorm at 7:00 pm, temperature in the high 70\'s and low high 60\'s. High chance of rain</item>
+        <item>Cloudy with a 70% chance of rain from mid-evening on to the next day, temperature in the 60\'s.</item>
+        <item>Cloudy with a 100% chance of rain, caution for ice as temperature drop as low as 42F</item>
+        <item>Clear sky, caution to stay warm as temperature is dropping all the way to 32F</item>
+        <item>Little cloudy, with temperature in the high 30\'s. Keep an extra layer!</item>
+        <item>Cloudy with a 100% chance of rain, temperature in the mid 50\'s. Chili, chili!</item>
+        <item>Cloudy in the morning with a 60% chance of rain, clear weather in the evening with temperature dropping to 45F with lack of heat contraption</item>
+        <item>Cloudy with an 80% chance of rain, temperature at around 62F</item>
+        <item>Clear sky with some clouds in the evening. Temperature in the mid 80\'s </item>
+        <item>Cloudy sky with temperature in the low 90\'s</item>
+        <item>Extreme weather alert, clear sky with temperature of up to 100F</item>
+    </string-array>
 </resources>
